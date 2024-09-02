@@ -1,4 +1,4 @@
-## Prova finale Progetto di # [Reti Logiche](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=788722&polij_device_category=DESKTOP&__pj0=0&__pj1=9cc3f34aabe22aeab794c35ef361f0cf) - a.a - 2022-2023
+## Prova finale Progetto di [Reti Logiche](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=788722&polij_device_category=DESKTOP&__pj0=0&__pj1=9cc3f34aabe22aeab794c35ef361f0cf) - a.a - 2022-2023
 Qeesta è la repository che comprende il progetto del corso di Reti Logiche, anno 2022/23 del Politecnico di Milano.
 
 <p align="center">
